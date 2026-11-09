@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/orb.png" alt="Said's orb: each dot is an open to-do, the red one is overdue" width="100%">
-
 # Said
 
 **Say it, and it's saved.**
@@ -15,6 +13,12 @@ type or say one sentence, press Return — it lands in Apple Reminders and shows
 
 [**Download**](https://github.com/Barca0412/said/releases/latest) · [Feedback](https://github.com/Barca0412/said/issues) · [中文](README.md)
 
+<br>
+
+<img src="assets/demo.gif" alt="Demo: open the orb, type a task with a time in it and press Return; then speak one, fillers removed, Return; click elsewhere and it rolls back into the orb" width="600">
+
+<sub>The real Said interface with made-up to-dos. Captions and UI are in Chinese.</sub>
+
 </div>
 
 > **Heads-up:** the app's interface is currently **Chinese only**. Voice input handles mixed Chinese and English.
@@ -26,6 +30,10 @@ In the middle of a meeting or a document, a task suddenly comes to mind. Opening
 Said cuts capturing down to **one step**: the orb is always there; click, type or speak, Return. Everything else is plain Apple Reminders — iCloud sync, iPhone alerts, Siri, shared lists.
 
 ## What it does
+
+<img src="assets/orb.png" alt="The orb in its different states: one dot per open to-do" width="100%">
+
+<sub>One dot per open to-do: red is overdue, white is due today, grey is the rest. An empty orb shows a single small ring.</sub>
 
 - **Always there, never in the way.** One dot per open task on the orb, red when overdue. Click outside and it rolls back into the orb — or keep it open, or let other windows cover it.
 - **Dates in plain words.** "明天下午3点…" (tomorrow 3 pm) or "周五前…" (by Friday) sets the due date and keeps the title clean.

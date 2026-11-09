@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/orb.png" alt="Said 的小球：每个点是一件没做完的事，红点是过期的" width="100%">
-
 # Said
 
 **说一句，就记下。**
@@ -16,6 +14,12 @@
 
 [**下载最新版**](https://github.com/Barca0412/said/releases/latest) · [怎么用](#怎么用) · [常见问题](#常见问题) · [反馈](https://github.com/Barca0412/said/issues) · [English](README.en.md)
 
+<br>
+
+<img src="assets/demo.gif" alt="演示：点开右上角的小球，打一句「明天下午3点给张总回电话」回车保存；再点麦克风说一句，自动去掉「嗯、那个」后回车保存；最后点别处收回成小球" width="600">
+
+<sub>Said 的真实界面，演示里的待办是虚构的。</sub>
+
 </div>
 
 ---
@@ -29,6 +33,10 @@
 Said 想把"记下来"这件事缩短到**一步**：小球一直在右上角，点它，说一句或打一句，回车。剩下的交给 Apple 自带的「提醒事项」：iCloud 同步、iPhone 提醒、Siri、共享列表，都是现成的。
 
 ## 它能做什么
+
+<img src="assets/orb.png" alt="小球的几种样子：每个点是一件没做完的事" width="100%">
+
+<sub>小球上每个点是一件没做完的事：红点是过期的，白点是今天到期的，灰点是其他的。没有待办时只剩一个小圆圈。</sub>
 
 | | |
 | --- | --- |
